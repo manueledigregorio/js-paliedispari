@@ -2,7 +2,8 @@
 let inserisciParola = prompt('inserisci una parola')
 
 const myarray = inserisciParola.split("");
-
+let messaggio = controllo(myarray);
+document.getElementById('output').innerHTML = messaggio ;
 function controllo(myarray){
 
   let  myarrayinverso = [];
@@ -30,6 +31,8 @@ function controllo(myarray){
   return messaggio;
 
 }
+
+
 
 //1. creare una funzione  che paragona la lettura  per rendere dinamico 
 //1. creare un ciclo per verificare se la parola e palindroma 
