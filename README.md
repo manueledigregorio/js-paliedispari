@@ -20,9 +20,10 @@ Dichiariamo chi ha vinto.
 
 
 
-
-
-
+1. inserisci due  promt uno per pari e dipari laltro per un numero da 1 a 5 
+1.generare un numero random da uno a cinque per il PC usando una funzione 
+1.creiamo una costante con la somma dei due numeri del pc e dell'UTENTE
+1.confrontiamo chi ha vinto 
 
 
 
